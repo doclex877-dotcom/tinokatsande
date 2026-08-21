@@ -28,43 +28,69 @@ export default function Home({ articles }) {
     <>
       <SEO />
 
-      {/* Hero */}
-      <section className="hero">
-        <div className="hero__inner">
-          <div>
-            <p className="hero__eyebrow"><span className="hero__eyebrow-dot" />Evidence-based · Plain English · Written by a doctor</p>
-            <h1 className="hero__title">
-              Health answers you can<br /><em>actually trust</em>
-            </h1>
-            <p className="hero__subtitle">
-              Dr. Tino Katsande explains chronic conditions, mental health, and symptoms in the plain
-              English your doctor didn't have time to use. No jargon. No scare tactics. Just facts.
-            </p>
-            <form onSubmit={handleSearch} className="hero__search">
-              <input
-                type="search"
-                placeholder='Search — e.g. "high blood pressure symptoms"'
-                aria-label="Search health topics"
-                value={searchQuery}
-                onChange={e => setSearchQuery(e.target.value)}
-              />
-              <button type="submit">Search</button>
-            </form>
-          </div>
+      {/* Hero — with real background image */}
+      <section style={{
+        position: 'relative',
+        minHeight: '580px',
+        display: 'flex',
+        alignItems: 'center',
+        overflow: 'hidden',
+      }}>
+        {/* Background image */}
+        <div style={{
+          position: 'absolute', inset: 0,
+          backgroundImage: 'url(/images/hero-bg.webp)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          zIndex: 0,
+        }} />
+        {/* Dark overlay */}
+        <div style={{
+          position: 'absolute', inset: 0,
+          background: 'linear-gradient(135deg, rgba(11,107,107,0.92) 0%, rgba(4,40,40,0.88) 100%)',
+          zIndex: 1,
+        }} />
 
-          <div className="hero__card">
-            <div className="hero__card-title">Browse by topic</div>
-            <div className="hero__topics">
-              {TOPICS.map(t => (
-                <Link href={t.href} key={t.label} className="hero__topic">
-                  <span className="hero__topic-icon">{t.icon}</span>
-                  <div>
-                    <div className="hero__topic-text">{t.label}</div>
-                    <div style={{ fontSize: '11px', color: 'rgba(255,255,255,0.4)', marginTop: '2px' }}>{t.desc}</div>
-                  </div>
-                  <span className="hero__topic-count">→</span>
-                </Link>
-              ))}
+        <div style={{ position: 'relative', zIndex: 2, width: '100%', padding: '80px 24px 72px' }}>
+          <div className="hero__inner">
+            <div>
+              <p className="hero__eyebrow">
+                <span className="hero__eyebrow-dot" />
+                Evidence-based · Plain English · Written by a doctor
+              </p>
+              <h1 className="hero__title">
+                Health answers you can<br /><em>actually trust</em>
+              </h1>
+              <p className="hero__subtitle">
+                Dr. Tino Katsande explains chronic conditions, mental health, and symptoms in the plain
+                English your doctor didn't have time to use. No jargon. No scare tactics. Just facts.
+              </p>
+              <form onSubmit={handleSearch} className="hero__search">
+                <input
+                  type="search"
+                  placeholder='Search — e.g. "high blood pressure symptoms"'
+                  aria-label="Search health topics"
+                  value={searchQuery}
+                  onChange={e => setSearchQuery(e.target.value)}
+                />
+                <button type="submit">Search</button>
+              </form>
+            </div>
+
+            <div className="hero__card">
+              <div className="hero__card-title">Browse by topic</div>
+              <div className="hero__topics">
+                {TOPICS.map(t => (
+                  <Link href={t.href} key={t.label} className="hero__topic">
+                    <span className="hero__topic-icon">{t.icon}</span>
+                    <div>
+                      <div className="hero__topic-text">{t.label}</div>
+                      <div style={{ fontSize: '11px', color: 'rgba(255,255,255,0.4)', marginTop: '2px' }}>{t.desc}</div>
+                    </div>
+                    <span className="hero__topic-count">→</span>
+                  </Link>
+                ))}
+              </div>
             </div>
           </div>
         </div>
@@ -98,7 +124,6 @@ export default function Home({ articles }) {
       </div>
 
       <div className="container">
-
         {/* Featured articles */}
         {articles.length > 0 && (
           <section className="articles-section">
@@ -119,6 +144,7 @@ export default function Home({ articles }) {
         {[
           { cat: 'chronic-conditions', label: 'Chronic Conditions', icon: '🫀' },
           { cat: 'mental-health', label: 'Mental Health', icon: '🧠' },
+          { cat: 'womens-health', label: "Women's Health", icon: '🌸' },
         ].map(({ cat, label, icon }) => {
           const catArticles = articles.filter(a => a.category === cat).slice(0, 3)
           return (
@@ -140,18 +166,17 @@ export default function Home({ articles }) {
           )
         })}
 
-        {/* About Dr. Tino strip */}
+        {/* About strip */}
         <section style={{ background: 'var(--teal-pale)', border: '1px solid var(--teal-light)', borderRadius: 'var(--radius-xl)', padding: '40px 48px', margin: '48px 0', display: 'grid', gridTemplateColumns: '80px 1fr auto', gap: '24px', alignItems: 'center' }}>
           <div style={{ width: '80px', height: '80px', borderRadius: '50%', background: 'var(--teal)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: 'var(--font-display)', fontSize: '28px', fontWeight: '800', color: 'var(--white)' }}>TK</div>
           <div>
             <div style={{ fontFamily: 'var(--font-display)', fontSize: '20px', fontWeight: '700', color: 'var(--text-body)', marginBottom: '6px' }}>About Dr. Tino Katsande</div>
             <p style={{ fontSize: '14px', color: 'var(--text-muted)', lineHeight: '1.65', maxWidth: '560px' }}>
-              A Zimbabwe-born physician based in the UK with over a decade of clinical experience. Dr. Tino writes to give patients the clear, honest explanations they deserve — starting with the questions they were too afraid to ask in the consultation room.
+              A Zimbabwe-born NHS General Practitioner based in London with over 12 years of clinical experience. Dr. Tino writes to give patients the clear, honest explanations they deserve.
             </p>
           </div>
           <Link href="/about" className="btn btn--primary" style={{ whiteSpace: 'nowrap' }}>Read my story</Link>
         </section>
-
       </div>
     </>
   )
