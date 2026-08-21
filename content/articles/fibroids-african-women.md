@@ -1,25 +1,29 @@
----
-title: "Fibroids — What African and Black Women Need to Know"
-excerpt: "Black and African women are 2–3 times more likely to develop fibroids, develop them younger, and have more severe symptoms. Yet many suffer for years before getting a diagnosis. Here is the complete guide."
+﻿---
+title: "Fibroids â€” What African and Black Women Need to Know"
+excerpt: "Black and African women are 2â€“3 times more likely to develop fibroids, develop them younger, and have more severe symptoms. Yet many suffer for years before getting a diagnosis. Here is the complete guide."
 category: "womens-health"
 categoryLabel: "Women's Health"
 date: "2025-06-20"
 lastUpdated: "June 2025"
 readTime: 14
 tags: ["Fibroids", "Uterine Fibroids", "Women's Health", "Black Women's Health", "Fertility"]
-published: true
 heroImage: "/images/fibroids.webp"
+published: true
 ---
 
-I want to open this article with a number that I find genuinely shocking: studies suggest that by the age of 50, up to **80% of Black women** will have developed uterine fibroids, compared to around 70% of women overall. That is not a small difference. And yet fibroids remain dramatically under-discussed, frequently dismissed, and — in my clinical experience — often endured in silence for years before a woman receives a proper diagnosis and treatment plan.
+She had been soaking through pads every 45 minutes for the first three days of every period since she was 26. She took iron tablets for the anaemia, booked nothing for the first week of each month, and described her symptoms â€” when she finally described them to me at 38 â€” with a resignation that suggested she had long since stopped expecting anyone to do anything about them.
 
-I have sat with patients who have been bleeding heavily every month for a decade, taking iron tablets for the resulting anaemia, missing work during their periods, and managing debilitating pelvic pain — all without anyone properly investigating why. When I ask how long this has been going on, the answer is sometimes: "Since I was in my twenties. I thought it was normal."
+"I thought it was just how I am," she said.
 
-It is not normal. And you do not have to live with it.
+It was not how she was. She had fibroids â€” multiple, significant, treatable â€” that had been doing this to her body for over a decade while nobody thought to look.
+
+Nkechi's story is not unusual. It is representative of something I see repeatedly: Black and African women enduring fibroid symptoms for years, sometimes a decade or more, before receiving a proper investigation. The symptoms get normalised. The pain gets attributed to character. The bleeding gets managed rather than investigated.
+
+Up to 80% of Black women will develop uterine fibroids by the age of 50. That is not a minority experience â€” it is the majority one. And yet the conversation about fibroids in African communities remains muted, the diagnosis is often delayed, and treatment options are frequently not fully explained.
 
 <div class="callout callout--info">
-  <span class="callout__icon">ℹ️</span>
-  <div><div class="callout__title">What are fibroids?</div>Uterine fibroids (also called leiomyomas or myomas) are non-cancerous growths that develop in or around the uterus. They are made of muscle and fibrous tissue and range in size from a pea to — in rare cases — the size of a melon. They are almost always benign.</div>
+  <span class="callout__icon">â„¹ï¸</span>
+  <div><div class="callout__title">What are fibroids?</div>Uterine fibroids (also called leiomyomas or myomas) are non-cancerous growths that develop in or around the uterus. They are made of muscle and fibrous tissue and range in size from a pea to â€” in rare cases â€” the size of a melon. They are almost always benign.</div>
 </div>
 
 ## Why Black and African women are disproportionately affected

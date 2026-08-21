@@ -1,21 +1,23 @@
----
-title: "Depression in African and Black Men — Breaking the Silence That Is Killing People"
-excerpt: "Black men are significantly less likely to seek help for depression and significantly more likely to present in crisis. This is a guide to what depression actually looks like in men — and why getting help is strength, not weakness."
+﻿---
+title: "Depression in African and Black Men â€” Breaking the Silence That Is Killing People"
+excerpt: "Black men are significantly less likely to seek help for depression and significantly more likely to present in crisis. This is a guide to what depression actually looks like in men â€” and why getting help is strength, not weakness."
 category: "mental-health"
 categoryLabel: "Mental Health"
 date: "2025-06-08"
 lastUpdated: "June 2025"
 readTime: 12
 tags: ["Depression", "Men's Mental Health", "Black Men", "African Mental Health", "Mental Health Stigma"]
-published: true
 heroImage: "/images/depression.webp"
+published: true
 ---
 
-I want to begin with a statistic that I find genuinely disturbing: suicide is the leading cause of death for men aged 20–49 in England and Wales. Black men are underrepresented in mental health service use but overrepresented in crisis presentations — which means they reach services only when things have become very serious.
+Suicide is the leading cause of death for men aged 20â€“49 in England and Wales. Not cancer. Not road traffic accidents. Suicide.
 
-The cultural narrative in many African communities around men and mental health is not benign. Men are expected to be strong. Providing for the family is proof of mental toughness. Emotional vulnerability is weakness. Depression is laziness. Seeking therapy is for people who cannot handle their problems.
+I put that sentence first because it is the sentence people need to sit with before they decide that depression is not a real problem, or that strong men do not talk about their feelings, or that prayer is sufficient where medicine is also needed. The men dying from this are not weak men. They are men who had no framework for understanding what was happening to them, no vocabulary for asking for help, and no cultural permission to seek it.
 
-I say plainly: this narrative is killing people.
+In African communities, the situation is quietly catastrophic. Black men access mental health services at lower rates than any other demographic group in the UK. When they do reach services, they are more likely to arrive in crisis â€” through A&E, through a mental health section, through a crisis team â€” rather than through the GP appointment that catches things early. The system sees them late, often when the window for simpler intervention has long passed.
+
+This guide is about changing that â€” starting with what depression in men actually looks like, because it does not look like what most people picture.
 
 ## What depression actually looks like in men
 

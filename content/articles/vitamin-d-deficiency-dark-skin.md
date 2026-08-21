@@ -1,25 +1,27 @@
----
-title: "Vitamin D Deficiency — Why Almost Every African in the UK Is Deficient and What to Do About It"
-excerpt: "The biology of melanin combined with UK sunlight means that dark-skinned people living in Britain are almost universally vitamin D deficient. This matters more than most people realise — and the fix is cheap and simple."
+﻿---
+title: "Vitamin D Deficiency â€” Why Almost Every African in the UK Is Deficient and What to Do About It"
+excerpt: "The biology of melanin combined with UK sunlight means that dark-skinned people living in Britain are almost universally vitamin D deficient. This matters more than most people realise â€” and the fix is cheap and simple."
 category: "chronic-conditions"
 categoryLabel: "Chronic Conditions"
 date: "2025-06-27"
 lastUpdated: "June 2025"
 readTime: 11
 tags: ["Vitamin D", "Vitamin D Deficiency", "Black Health", "Supplements", "Fatigue"]
-published: true
 heroImage: "/images/vitamind.webp"
+published: true
 ---
 
-Of all the health conversations I have with African and Black patients in the UK, the vitamin D conversation is the one where I most consistently find myself saying: "Almost certainly yes, you are deficient. Let's check, but I already know what we'll find."
+If I had to name one blood test I wish I had ordered sooner for every African patient I have seen in the UK, it would be vitamin D.
 
-I say this not as a guess but as a near-certainty based on biology and geography. The combination of melanin-rich skin, the latitude of the UK, and the indoor nature of modern working life creates conditions in which adequate vitamin D synthesis from sunlight is essentially impossible for most of the year for dark-skinned people. This is not a lifestyle failing or a matter of not spending enough time outdoors. It is a physiological reality.
+Not because it is dramatic. Not because vitamin D deficiency kills people quickly or obviously. But because of how consistently I find it â€” severely low, sometimes catastrophically low â€” in patients who have been tired for two years, achey for three, struggling with mood for longer than they can pinpoint. Patients who have had thyroid tests, full blood counts, inflammatory markers â€” all normal â€” and been told there is nothing to explain how they feel.
 
-And it matters — because vitamin D does considerably more than support bone health, which is where the public conversation about it tends to stop.
+Then we check vitamin D. And there it is: 14 nmol/L. 19 nmol/L. Once, memorably, 8 nmol/L in a 34-year-old who had been told by three different doctors that her fatigue was stress-related.
+
+It is not complicated biology. Dark skin evolved in equatorial regions where UV radiation is intense year-round. Melanin â€” the pigment that creates that protection â€” is extraordinarily effective at blocking UV. In Nigeria, Zimbabwe, Ghana, that is an advantage. In Birmingham, Edinburgh, or Manchester, at latitudes where UVB is weak for most of the year, that same melanin blocks the limited sunlight that reaches you. The result is predictable and near universal: African adults living in the UK cannot synthesise adequate vitamin D from sunlight for most of the year. Supplementation is not optional. It is physiologically necessary.
 
 <div class="callout callout--info">
-  <span class="callout__icon">ℹ️</span>
-  <div><div class="callout__title">What vitamin D actually is</div>Vitamin D is technically a hormone, not a vitamin. Your skin synthesises it when exposed to UVB radiation from sunlight. It is then converted in the liver and kidneys into its active form, which regulates calcium absorption, immune function, muscle function, and — emerging evidence suggests — mood and cardiovascular health.</div>
+  <span class="callout__icon">â„¹ï¸</span>
+  <div><div class="callout__title">What vitamin D actually is</div>Vitamin D is technically a hormone, not a vitamin. Your skin synthesises it when exposed to UVB radiation from sunlight. It is then converted in the liver and kidneys into its active form, which regulates calcium absorption, immune function, muscle function, and mood.</div>
 </div>
 
 ## The biology: why melanin changes everything

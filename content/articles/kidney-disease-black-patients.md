@@ -1,24 +1,26 @@
----
-title: "Kidney Disease — The Silent Condition Affecting Black Patients at Three Times the Rate"
-excerpt: "Chronic kidney disease affects Black adults at three times the rate of white adults, yet 90% of people with early CKD have no symptoms at all. Here is what you need to know — and why a routine blood test could be the most important thing you do this year."
+﻿---
+title: "Kidney Disease â€” The Silent Condition Affecting Black Patients at Three Times the Rate"
+excerpt: "Chronic kidney disease affects Black adults at three times the rate of white adults, yet 90% of people with early CKD have no symptoms at all. Here is what you need to know â€” and why a routine blood test could be the most important thing you do this year."
 category: "chronic-conditions"
 categoryLabel: "Chronic Conditions"
 date: "2025-06-26"
 lastUpdated: "June 2025"
 readTime: 14
 tags: ["Kidney Disease", "CKD", "Black Health", "Renal Health", "eGFR"]
-published: true
 heroImage: "/images/kidneydisease.webp"
+published: true
 ---
 
-I want to tell you something that genuinely disturbs me as a clinician: chronic kidney disease is one of the most common serious conditions affecting Black adults in the UK, and the vast majority of people who have it do not know. There are no symptoms in the early stages. The kidneys are remarkable organs — they continue functioning adequately, without complaint, even when significantly damaged. By the time symptoms appear, the disease is often advanced.
+There is a blood test I now add to almost every routine check I do for Black patients over 40. It is not standard protocol. It is not what the appointment was booked for. But after years of watching people receive serious kidney disease diagnoses that should have been caught five years earlier â€” caught, and managed, and slowed â€” I have stopped waiting to be asked.
 
-This is why I check kidney function in every Black patient over 40 who comes through my door, regardless of what they came in for.
+The test takes 30 seconds to add to a request form. The result comes back in a few days. And in a meaningful number of cases, what it finds is a kidney function that has been quietly declining for years without producing a single symptom the patient noticed.
 
-The disparity is stark: Black adults develop kidney failure at approximately three times the rate of white adults. They reach end-stage renal disease — the point at which dialysis or transplantation is required — younger, faster, and in greater numbers. And yet, because the early disease is silent and because kidney health receives a fraction of the public health attention that heart disease or diabetes does, many people are not aware of the risk until significant damage has already occurred.
+That is the defining feature of chronic kidney disease in its early stages: silence. Your kidneys continue filtering your blood, regulating your blood pressure, producing hormones â€” doing everything they are supposed to do â€” even when functioning at 60%, 50%, 40% of normal capacity. There is no alarm. No pain. No obvious sign. Just a slow, invisible decline.
+
+For Black and African adults, the risk of that silent decline is three times higher than for white adults. This gap shows up consistently across decades of UK and US data, driven by biology, by the disproportionate burden of hypertension and diabetes in our communities, and by a healthcare system that has historically underdiagnosed us.
 
 <div class="callout callout--info">
-  <span class="callout__icon">ℹ️</span>
+  <span class="callout__icon">â„¹ï¸</span>
   <div><div class="callout__title">What the kidneys actually do</div>Your kidneys filter approximately 180 litres of blood every day, removing waste products and excess fluid as urine. They also regulate blood pressure, produce hormones that stimulate red blood cell production, and activate vitamin D. When they fail, everything fails with them.</div>
 </div>
 

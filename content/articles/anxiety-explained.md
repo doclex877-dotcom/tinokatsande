@@ -1,5 +1,5 @@
----
-title: "Anxiety — What It Actually Is, Why It Happens, and What Actually Helps"
+﻿---
+title: "Anxiety â€” What It Actually Is, Why It Happens, and What Actually Helps"
 excerpt: "Anxiety is not weakness, overthinking, or something to just push through. It is a physiological response with specific causes and specific treatments. Here is the honest clinical picture."
 category: "mental-health"
 categoryLabel: "Mental Health"
@@ -7,17 +7,19 @@ date: "2025-06-05"
 lastUpdated: "June 2025"
 readTime: 12
 tags: ["Anxiety", "Mental Health", "Anxiety Disorder", "CBT", "African Mental Health"]
-published: true
 heroImage: "/images/anxiety.webp"
+published: true
 ---
 
-I want to start with something I say to almost every patient I see for anxiety: what you are experiencing is not a sign that you are weak. It is not a sign that your faith is insufficient. It is not evidence that you cannot cope. It is a physiological response — your nervous system behaving in a specific, well-understood way — that has become miscalibrated.
+Nobody has ever come to me and said "I think I have an anxiety disorder." They come because they cannot sleep. Because their heart races on the Tube for no reason. Because they have avoided their email inbox for three days and cannot explain why. Because they had to leave a supermarket in a hurry, convinced something was wrong with their heart, and felt embarrassed about it for a week afterwards.
 
-I say this particularly for African and Black patients because the cultural narrative around mental health in many African communities still frames anxiety and depression as spiritual problems, as weakness, as something to be prayed away or simply endured. There is nothing wrong with prayer. But it should not come instead of understanding what is happening in your body and accessing the treatments that are known to work.
+Anxiety disguises itself. It calls itself stress, overthinking, being sensitive, not coping well. In African and Caribbean communities specifically, it often gets labelled as laziness or lack of faith â€” and those labels are far more damaging than the condition itself, because they replace a medical explanation with a moral one.
+
+Here is the medical explanation, plainly: anxiety is your nervous system behaving in a well-understood, measurable, physiological way. It has identifiable mechanisms. It responds to specific treatments. And it is not â€” not even a little bit â€” a reflection of your strength, your character, or the depth of your faith.
 
 <div class="callout callout--info">
-  <span class="callout__icon">ℹ️</span>
-  <div><div class="callout__title">Anxiety disorders are the most common mental health condition</div>Approximately 1 in 6 people in England report a common mental health problem in any given week. Anxiety disorders are among the most prevalent — and among the most treatable.</div>
+  <span class="callout__icon">â„¹ï¸</span>
+  <div><div class="callout__title">Anxiety disorders are the most common mental health condition</div>Approximately 1 in 6 people in England report a common mental health problem in any given week. Anxiety disorders are among the most prevalent â€” and among the most treatable.</div>
 </div>
 
 ## What anxiety actually is — the physiology

@@ -1,29 +1,29 @@
----
-title: "Back Pain — What the Evidence Actually Says (And Why Most People Are Being Treated Wrong)"
-excerpt: "Back pain is one of the most common reasons people see a doctor worldwide — and one of the most consistently mismanaged. Bed rest is wrong. Scans are often unhelpful. Surgery is rarely the answer. Here is what actually works."
+﻿---
+title: "Back Pain â€” What the Evidence Actually Says (And Why Most People Are Being Treated Wrong)"
+excerpt: "Back pain affects most people at some point. Most of the common treatments are either ineffective or actively counterproductive. Here is what the evidence actually says."
 category: "symptoms"
 categoryLabel: "Symptoms Guide"
 date: "2025-07-03"
 lastUpdated: "June 2025"
 readTime: 12
 tags: ["Back Pain", "Lower Back Pain", "Physiotherapy", "Chronic Pain", "Spine"]
-published: true
 heroImage: "/images/backpain.webp"
+published: true
 ---
 
-Back pain is one of the most common reasons people come to see me, and also one of the areas where I most frequently find myself explaining that the treatment a patient received elsewhere — or expects to receive — is not supported by the evidence.
+In 2015, an article in The Lancet described back pain management globally as characterised by "widespread use of ineffective and potentially harmful treatments." This was not a fringe view. It was a landmark series written by leading back pain researchers, describing a consistent disconnect between what evidence shows works and what patients actually receive.
 
-Bed rest does not help. In fact, it tends to make back pain worse.
+A decade on, not much has changed.
 
-An MRI scan does not usually lead to better treatment. It often leads to findings that look alarming but are not the cause of the pain, and can lead to unnecessary intervention.
+People with back pain are still being told to rest â€” which makes things worse. They are still being sent for MRI scans that generate alarming-sounding findings that are usually incidental and often increase fear rather than guide better treatment. They are still receiving opioid prescriptions that have minimal evidence for this type of pain and significant dependency risk.
 
-Surgery for most types of back pain has not been shown to be more effective than non-surgical treatment in the long term.
+This is not malicious. It is partly the result of genuine clinical complexity â€” back pain is heterogeneous and genuinely difficult to treat â€” and partly the result of patient expectation. Patients want something done. A diagnosis. An image. A procedure. And clinicians, under time pressure, often comply even when the evidence does not support it.
 
-This is not nihilistic — there are effective treatments for back pain. But they are different from what many people expect, and the gap between evidence and practice remains significant.
+What the evidence actually supports is less dramatic and less immediately satisfying. But it works considerably better.
 
 <div class="callout callout--danger">
-  <span class="callout__icon">🚨</span>
-  <div><div class="callout__title">Red flags — back pain that needs urgent assessment</div>Go to A&E or see your GP urgently if back pain is accompanied by: loss of bladder or bowel control, numbness or weakness in both legs, saddle anaesthesia (numbness in the groin/inner thighs), or occurs in someone with cancer, significant trauma, fever, or unexplained weight loss.</div>
+  <span class="callout__icon">ðŸš¨</span>
+  <div><div class="callout__title">Red flags â€” back pain that needs urgent assessment</div>Go to A&E or see your GP urgently if back pain is accompanied by: loss of bladder or bowel control, numbness or weakness in both legs, saddle anaesthesia (numbness in the groin/inner thighs), or occurs in someone with cancer, significant trauma, fever, or unexplained weight loss.</div>
 </div>
 
 ## What actually causes most back pain

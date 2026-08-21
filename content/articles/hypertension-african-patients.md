@@ -1,23 +1,27 @@
----
-title: "High Blood Pressure in African and Black Patients — Why It's Different and What to Do About It"
-excerpt: "Black and African patients develop hypertension earlier, more severely, and with different responses to medication. Here's what the evidence says and what your doctor may not have had time to explain."
+﻿---
+title: "High Blood Pressure in African and Black Patients â€” Why It's Different and What to Do About It"
+excerpt: "Black and African patients develop hypertension earlier, more severely, and with different responses to medication than other groups. Here's what the evidence says â€” and what your doctor may not have had time to explain."
 category: "chronic-conditions"
 categoryLabel: "Chronic Conditions"
 date: "2025-06-01"
 lastUpdated: "June 2025"
 readTime: 14
-tags: ["Hypertension", "High Blood Pressure", "Black Health", "Cardiovascular"]
-published: true
+tags: ["Hypertension", "High Blood Pressure", "Black Health", "Cardiovascular", "Africa"]
 heroImage: "/images/hypertension.webp"
+published: true
 ---
 
-Let me tell you something that took me years of clinical practice to say clearly to patients: hypertension in Black and African patients is not the same condition as hypertension in white patients. Same name. Same numbers on the blood pressure cuff. Different disease — different causes, different severity, different response to medication.
+My most memorable hypertension consultation was not dramatic. A 52-year-old accountant sat across from me â€” fit, nonsmoker, controlled diet, no family history he knew of â€” and his blood pressure reading was 178/104. He had come in for a completely different reason. He felt fine.
 
-I say this not to alarm you but because understanding this difference is genuinely useful.
+That is the thing about high blood pressure in Black and African patients that keeps me up at night as a clinician. It arrives quietly, parks itself in the body for years, does its damage in silence, and by the time someone notices â€” because of a stroke, a heart attack, failing kidneys â€” the conversation we should have had a decade earlier is long overdue.
+
+The blood pressure disparity affecting Black and African adults is not subtle. It is stark, consistent, and well-documented across decades of research on both sides of the Atlantic. Black adults develop hypertension approximately **10 years earlier** than white adults on average. The condition is more severe at diagnosis. The downstream consequences â€” stroke, heart failure, kidney disease â€” occur at higher rates and at younger ages.
+
+And yet. The treatment most commonly prescribed first does not work as well in Black patients. This is not a secret buried in specialist journals. It is in the NICE guidelines that every UK GP has access to. It just does not always make it to the consultation room.
 
 <div class="callout callout--info">
-  <span class="callout__icon">ℹ️</span>
-  <div><div class="callout__title">The numbers that matter</div>Normal blood pressure is below 120/80 mmHg. Hypertension is diagnosed at 140/90 mmHg or above. The top number (systolic) is your heart contracting. The bottom (diastolic) is your heart at rest.</div>
+  <span class="callout__icon">â„¹ï¸</span>
+  <div><div class="callout__title">The numbers that matter</div>Blood pressure is measured in two numbers: systolic (top number, when your heart beats) and diastolic (bottom number, between beats). Normal is below 120/80 mmHg. Hypertension is diagnosed at 140/90 mmHg or above in most guidelines.</div>
 </div>
 
 ## The disparity is real and well-documented

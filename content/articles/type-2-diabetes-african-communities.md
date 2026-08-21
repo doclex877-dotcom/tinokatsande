@@ -1,21 +1,28 @@
----
-title: "Type 2 Diabetes in African Communities — The Facts, the Risks, and the Things You Can Actually Control"
-excerpt: "People of African origin are 2–4 times more likely to develop type 2 diabetes than white Europeans. But the condition is far more manageable than most people think. Here's the honest guide."
+﻿---
+title: "Type 2 Diabetes in African Communities â€” The Facts, the Risks, and the Things You Can Actually Control"
+excerpt: "People of African origin are 2â€“4 times more likely to develop type 2 diabetes than white Europeans. But the condition is far more manageable than most people think. Here's the honest guide."
 category: "chronic-conditions"
 categoryLabel: "Chronic Conditions"
 date: "2025-06-03"
 lastUpdated: "June 2025"
 readTime: 13
 tags: ["Diabetes", "Type 2 Diabetes", "Black Health", "Chronic Conditions", "Africa"]
-published: true
 heroImage: "/images/diabetes.webp"
+published: true
 ---
 
-When I diagnose a patient with type 2 diabetes, I notice something consistent in the room. Fear. Sometimes tears. Occasionally: "Does this mean I'm going to lose my leg?"
+Three words that change everything. That is what a type 2 diabetes diagnosis feels like in the room. I have watched faces crumple. I have seen people sit very still. I have heard: "Does this mean I am going to lose a leg?"
 
-The fear is understandable. Type 2 diabetes has a reputation. But I spend the next few minutes trying to convey something important: this condition, caught at the right time, managed correctly, is highly controllable. People with well-managed diabetes live long, full lives. The horror stories — amputations, blindness, kidney failure — are almost always stories of undiagnosed or poorly managed diabetes. Not of diabetes itself.
+The fear makes sense. Diabetes has a reputation â€” and some of that reputation is earned. But here is what I try to convey in the minutes after delivering that diagnosis: the people who lose limbs, who go blind, who end up on dialysis â€” they are almost always people whose diabetes went undetected for years, or was poorly managed, or was managed without adequate support. The condition itself, caught early and treated properly, is among the most controllable chronic diseases in medicine.
 
-That said, African communities face specific risks that deserve frank discussion.
+People with well-managed diabetes live long, full, ordinary lives. That is the truth the fear tends to drown out.
+
+What does deserve frank discussion is why people of African heritage are being diagnosed at 2â€“4 times the rate of white Europeans â€” and what that means for screening, treatment, and daily management.
+
+<div class="callout callout--info">
+  <span class="callout__icon">â„¹ï¸</span>
+  <div><div class="callout__title">Type 1 vs Type 2 â€” a critical distinction</div>Type 2 diabetes involves insulin resistance â€” the body produces insulin but cannot use it effectively. Type 1 is an autoimmune condition where the pancreas produces no insulin. This guide covers type 2. They are different diseases requiring different management.</div>
+</div>
 
 ## Why African and Black populations are at higher risk
 

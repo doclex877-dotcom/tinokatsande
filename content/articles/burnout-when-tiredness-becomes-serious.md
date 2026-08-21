@@ -1,5 +1,5 @@
----
-title: "Burnout — When Tiredness Becomes Something More Serious"
+﻿---
+title: "Burnout â€” When Tiredness Becomes Something More Serious"
 excerpt: "Burnout is not laziness, weakness, or a need for a holiday. It is a state of chronic stress that has reached a point of physical and emotional depletion. Here is how to recognise it, what it does to your body, and what actually helps."
 category: "mental-health"
 categoryLabel: "Mental Health"
@@ -7,20 +7,17 @@ date: "2025-06-23"
 lastUpdated: "June 2025"
 readTime: 11
 tags: ["Burnout", "Stress", "Mental Health", "Work Stress", "Exhaustion"]
-published: true
 heroImage: "/images/burnout.webp"
+published: true
 ---
 
-The word burnout gets used casually — "I'm so burned out from this project," said about a heavy week at work. But clinical burnout is something distinctly different from tiredness or work stress. It is a state of chronic, unrelenting depletion that affects how you think, how you feel physically, and how you relate to your work and the people around you. It does not resolve with a long weekend.
+A colleague described it to me as "the lights going out from the inside." She had been a nurse for eleven years, worked through the worst of the pandemic, taken on extra shifts, mentored junior staff, and done all of it without complaint. Then one Tuesday morning she sat in her car in the hospital car park for forty minutes and could not make herself go in.
 
-I see burnout frequently. I see it particularly in people who are high-functioning, conscientious, and have a strong sense of responsibility — people who push through when they should stop, who take on more when they are already at capacity, who do not recognise what is happening until they are in the middle of it.
+Not because she was sick. Not because anything specific had happened. The tank was simply empty. And unlike ordinary tiredness, emptying it over eleven years meant that a weekend off was not going to fill it back up.
 
-And I see it disproportionately in African and Black professionals — people navigating workplaces where they feel they need to perform at a higher standard than colleagues to be treated as equal, who carry the additional cognitive load of code-switching, and who are less likely to have trusted spaces to admit they are struggling.
+Burnout gets talked about casually â€” "I am so burned out from this project" â€” in ways that dilute what it actually is. Clinical burnout is a distinct state of chronic depletion that changes how you think, how you feel physically, and how you relate to your work and the people around you. It does not resolve with rest alone. It requires a different kind of intervention.
 
-<div class="callout callout--info">
-  <span class="callout__icon">ℹ️</span>
-  <div><div class="callout__title">WHO definition</div>The World Health Organisation classifies burnout as an occupational phenomenon (not a medical condition) resulting from "chronic workplace stress that has not been successfully managed." Three dimensions: exhaustion, cynicism/detachment, and reduced professional efficacy.</div>
-</div>
+I see it frequently, and I notice patterns in who presents with it. High-functioning people. Conscientious people. People with a strong sense of professional identity. And disproportionately, African and Black professionals navigating workplaces where the bar is demonstrably higher â€” where every mistake is more visible, where they carry the cognitive load of code-switching, and where the spaces to admit struggle are much narrower.
 
 ## The three dimensions of burnout
 

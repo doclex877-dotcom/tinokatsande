@@ -1,5 +1,5 @@
----
-title: "Heart Disease — The Warning Signs, the Risk Factors, and How to Cut Your Risk in Half"
+﻿---
+title: "Heart Disease â€” The Warning Signs, the Risk Factors, and How to Cut Your Risk in Half"
 excerpt: "Heart disease kills more people in the UK than any other condition. Black adults face a significantly higher risk. Here is what actually causes it, the symptoms people ignore, and the evidence-based steps that genuinely reduce your risk."
 category: "chronic-conditions"
 categoryLabel: "Chronic Conditions"
@@ -11,13 +11,17 @@ heroImage: "/images/heartdisease.webp"
 published: true
 ---
 
-Every ten minutes in the UK, someone dies from coronary heart disease. It remains the single leading cause of death — ahead of cancer, ahead of stroke, ahead of everything else. And yet it is also one of the most preventable conditions in medicine. Up to 80% of premature heart disease deaths could be avoided through changes that are well understood, evidence-based, and achievable.
+Every ten minutes in the UK, someone dies from coronary heart disease.
 
-I write this not to alarm you but because the prevention conversation in African and Black communities does not happen often enough or early enough. By the time many of my patients start thinking seriously about their heart health, significant arterial disease is already present.
+Not every hour. Every ten minutes. Heart disease is not a historical problem that medicine has solved â€” it remains the leading cause of death in this country, ahead of all cancers combined. And for Black and African adults the picture is worse: higher rates of hypertension driving earlier arterial damage, higher rates of diabetes compounding cardiovascular risk, and a healthcare system that does not always identify these risks as early or manage them as aggressively as it should.
+
+The paradox is that heart disease is also among the most preventable conditions. Up to 80% of premature cardiovascular deaths could be avoided with interventions that are available, affordable, and evidence-based. The gap between what is possible and what actually happens is not about medical knowledge â€” that knowledge exists. It is about who receives the conversation early enough to act on it.
+
+This guide is that conversation.
 
 <div class="callout callout--info">
-  <span class="callout__icon">ℹ️</span>
-  <div><div class="callout__title">What coronary heart disease actually is</div>Coronary heart disease (CHD) occurs when the arteries supplying blood to the heart muscle become narrowed by a build-up of fatty deposits called plaques — a process called atherosclerosis. This reduces blood flow to the heart. A heart attack occurs when a plaque ruptures, a clot forms, and blood supply is completely cut off.</div>
+  <span class="callout__icon">â„¹ï¸</span>
+  <div><div class="callout__title">What coronary heart disease actually is</div>Coronary heart disease (CHD) occurs when the arteries supplying blood to the heart muscle become narrowed by a build-up of fatty deposits called plaques â€” a process called atherosclerosis. This reduces blood flow to the heart. A heart attack occurs when a plaque ruptures, a clot forms, and blood supply is completely cut off.</div>
 </div>
 
 ## Why Black adults face higher cardiovascular risk

@@ -1,5 +1,5 @@
----
-title: "Stroke — Recognising It, Surviving It, and the Disparity Nobody Talks About"
+﻿---
+title: "Stroke â€” Recognising It, Surviving It, and the Disparity Nobody Talks About"
 excerpt: "Black adults are twice as likely to have a stroke as white adults, and more likely to have one younger. Here is how to recognise a stroke, what happens in those critical first hours, and what life after stroke actually looks like."
 category: "chronic-conditions"
 categoryLabel: "Chronic Conditions"
@@ -7,19 +7,23 @@ date: "2025-06-28"
 lastUpdated: "June 2025"
 readTime: 13
 tags: ["Stroke", "Black Health", "FAST", "Cardiovascular", "Brain Health"]
-published: true
 heroImage: "/images/stroke.webp"
+published: true
 ---
 
-Of all the medical emergencies I have dealt with, stroke is the one where time is most literally the difference between life and death — or between full recovery and permanent disability. The phrase neurologists use is blunt and accurate: **time is brain**. Every minute a stroke goes untreated, approximately 1.9 million neurons die. The window for the most effective treatment — thrombolysis, the clot-dissolving drug — is 4.5 hours from symptom onset. Miss that window and the options narrow dramatically.
+Four and a half hours. That is the window.
 
-And yet in the UK, Black patients consistently present to hospital later after stroke onset than white patients. They wait longer. They are less likely to receive thrombolysis. They experience worse outcomes.
+From the moment a stroke begins to the point at which clot-dissolving treatment is no longer possible: four and a half hours. In that window, a person can go from a stroke that leaves minimal lasting damage to one that takes language, movement, independence. The difference is often not the severity of the stroke itself. It is how quickly someone called 999.
 
-This is not because strokes in Black patients are less recognisable. It is largely because awareness of stroke symptoms, and the urgency of calling 999, is lower in Black communities than in the general population. This guide is my attempt to close that gap.
+I have sat with families after strokes. I have seen what a one-hour delay costs. I have also seen â€” in the case of Josephine, which I describe later in this article â€” what acting in four minutes looks like. She is alive and walks without a stick because her husband did not wait to see if it would pass.
+
+Black adults in the UK are twice as likely to have a stroke as white adults. They are more likely to have that stroke in their 40s or 50s rather than their 60s or 70s. They are more likely to have the haemorrhagic type â€” where a vessel bursts â€” which carries higher mortality. And they are more likely, according to consistent UK data, to arrive at hospital later after symptom onset.
+
+That last statistic is the one we can change. Right now. Today.
 
 <div class="callout callout--danger">
-  <span class="callout__icon">🚨</span>
-  <div><div class="callout__title">FAST — act on any one of these</div><strong>F</strong>ace drooping — one side drooping or numb, uneven smile<br><strong>A</strong>rms — one arm weak or numb, drifts downward when both raised<br><strong>S</strong>peech — slurred, strange, unable to speak or understand<br><strong>T</strong>ime — call 999 immediately. Do not wait. Do not drive yourself.</div>
+  <span class="callout__icon">ðŸš¨</span>
+  <div><div class="callout__title">FAST â€” act on any one of these</div><strong>F</strong>ace drooping â€” one side drooping or numb, uneven smile<br><strong>A</strong>rms â€” one arm weak or numb, drifts downward when both raised<br><strong>S</strong>peech â€” slurred, strange, unable to speak or understand<br><strong>T</strong>ime â€” call 999 immediately. Do not wait. Do not drive yourself.</div>
 </div>
 
 ## Why Black adults are at higher risk
