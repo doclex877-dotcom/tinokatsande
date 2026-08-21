@@ -9,25 +9,34 @@ export default function Contact() {
 
   return (
     <>
-      <SEO title="Contact Dr. Tino Katsande" description="Ask a health question or get in touch with Dr. Tino Katsande." canonical="/contact" />
+      <SEO title="Contact Dr. Tino Katsande" description="Get in touch with Dr. Tino Katsande — questions, corrections, or topic suggestions." canonical="/contact" />
+
       <div style={{ background: 'linear-gradient(135deg, var(--teal) 0%, #083D3D 100%)', padding: '56px 24px 48px' }}>
         <div className="container--narrow">
-          <h1 style={{ fontFamily: 'var(--font-display)', fontSize: '36px', fontWeight: '800', color: 'var(--white)', marginBottom: '12px' }}>Ask Dr. Tino</h1>
-          <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.6)', lineHeight: '1.6' }}>A question not answered by our guides? Found an error? Want to suggest a topic? I read everything.</p>
+          <h1 style={{ fontFamily: 'var(--font-display)', fontSize: '36px', fontWeight: '800', color: 'var(--white)', marginBottom: '12px' }}>Get in touch</h1>
+          <p style={{ fontSize: '16px', color: 'rgba(255,255,255,0.6)', lineHeight: '1.6' }}>
+            Found an error? Have a question not answered in our guides? Want to suggest a topic?
+          </p>
+          <div style={{ marginTop: '16px', padding: '12px 16px', background: 'rgba(255,255,255,0.1)', borderRadius: 'var(--radius)', display: 'inline-block' }}>
+            <span style={{ fontSize: '13px', color: 'rgba(255,255,255,0.7)' }}>You can also email directly: </span>
+            <a href="mailto:contact@tinokatsande.online" style={{ fontSize: '13px', fontWeight: '600', color: '#7EEEDD' }}>contact@tinokatsande.online</a>
+          </div>
         </div>
       </div>
+
       <div className="container--narrow" style={{ padding: '56px 24px 80px' }}>
         <div className="callout callout--warning" style={{ marginBottom: '32px' }}>
           <span className="callout__icon">⚠️</span>
-          <div><div className="callout__title">This is not a medical consultation</div>I cannot provide personal medical advice through this form. If you have an urgent health concern, please contact your GP or call 111 (UK). For emergencies, call 999.</div>
+          <div><div className="callout__title">This is not a medical consultation</div>I cannot provide personal medical advice through this form. If you have an urgent health concern, contact your GP or call 111 (UK). For emergencies, call 999.</div>
         </div>
+
         <div className="contact-grid">
           <div>
             {sent ? (
               <div style={{ background: 'var(--success-bg)', border: '1px solid var(--success-border)', borderRadius: 'var(--radius-lg)', padding: '24px', textAlign: 'center' }}>
                 <div style={{ fontSize: '32px', marginBottom: '12px' }}>✓</div>
                 <h2 style={{ fontFamily: 'var(--font-display)', fontSize: '20px', fontWeight: '700', color: '#065F46', marginBottom: '8px' }}>Message received</h2>
-                <p style={{ fontSize: '14px', color: '#065F46' }}>Dr. Tino typically responds within 3–5 business days.</p>
+                <p style={{ fontSize: '14px', color: '#065F46' }}>Dr. Tino typically responds within 3–5 business days. You can also email contact@tinokatsande.online directly.</p>
               </div>
             ) : (
               <form onSubmit={handleSubmit} style={{ display: 'flex', flexDirection: 'column' }}>
@@ -37,7 +46,7 @@ export default function Contact() {
                   <select id="subject" name="subject" value={form.subject} onChange={handleChange} required>
                     <option value="">Select...</option>
                     <option>Question about a health guide</option>
-                    <option>I found an error</option>
+                    <option>I found a medical error</option>
                     <option>Topic suggestion</option>
                     <option>Other</option>
                   </select>
@@ -47,12 +56,23 @@ export default function Contact() {
               </form>
             )}
           </div>
+
           <div>
             <h2 style={{ fontFamily: 'var(--font-display)', fontSize: '22px', fontWeight: '700', color: 'var(--text-body)', marginBottom: '16px' }}>What to expect</h2>
-            {[{ icon: '✏️', t: 'Corrections', d: 'If you spot a medical error or outdated information, please tell me — I take accuracy seriously and update immediately.' }, { icon: '💡', t: 'Topic suggestions', d: 'Is there a condition or symptom you wish I covered? I build my content plan largely from reader requests.' }, { icon: '📖', t: 'General questions', d: 'If a guide didn\'t fully answer your question, let me know and I will either clarify or write a follow-up.' }].map(i => (
-              <div key={i.t} style={{ display: 'flex', gap: '12px', marginBottom: '16px', padding: '14px', background: 'var(--off-white)', borderRadius: 'var(--radius)' }}>
-                <span style={{ fontSize: '20px' }}>{i.icon}</span>
-                <div><div style={{ fontWeight: '600', fontSize: '14px', color: 'var(--text-body)', marginBottom: '4px' }}>{i.t}</div><div style={{ fontSize: '13px', color: 'var(--text-muted)', lineHeight: '1.5' }}>{i.d}</div></div>
+            <p style={{ fontSize: '14px', color: 'var(--text-muted)', lineHeight: '1.7', marginBottom: '1rem' }}>
+              Dr. Tino reads all messages personally. Response times are typically 3–5 business days. For urgent medical matters, please contact your GP or call 111 — this is not a clinical service.
+            </p>
+            <p style={{ fontSize: '14px', color: 'var(--text-muted)', lineHeight: '1.7', marginBottom: '1.5rem' }}>
+              You can also email directly at <a href="mailto:contact@tinokatsande.online" style={{ color: 'var(--teal)', fontWeight: '500' }}>contact@tinokatsande.online</a>
+            </p>
+            {[
+              { icon: '✏️', t: 'Medical errors', d: 'If you spot an inaccuracy in any guide, please tell me. I take accuracy extremely seriously and update immediately.' },
+              { icon: '💡', t: 'Topic suggestions', d: 'Is there a condition, symptom, or health topic you wish I covered? I build my content plan from reader requests.' },
+              { icon: '📖', t: 'Unclear explanations', d: "If a guide didn't fully answer your question, let me know and I'll clarify or write a follow-up." },
+            ].map(item => (
+              <div key={item.t} style={{ display: 'flex', gap: '12px', marginBottom: '16px', padding: '14px', background: 'var(--off-white)', borderRadius: 'var(--radius)' }}>
+                <span style={{ fontSize: '20px' }}>{item.icon}</span>
+                <div><div style={{ fontWeight: '600', fontSize: '14px', color: 'var(--text-body)', marginBottom: '4px' }}>{item.t}</div><div style={{ fontSize: '13px', color: 'var(--text-muted)', lineHeight: '1.5' }}>{item.d}</div></div>
               </div>
             ))}
           </div>
