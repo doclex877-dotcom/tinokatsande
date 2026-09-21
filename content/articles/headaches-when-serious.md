@@ -11,60 +11,78 @@ heroImage: "/images/headache.webp"
 published: true
 ---
 
-Headache is one of the most common symptoms that brings people to their GP, and one of the most anxiety-provoking - because we know the brain is involved, and we know some headaches represent serious pathology.
+Headache brings more people to their GP and A&E than almost any other neurological symptom. The anxiety that accompanies it is understandable - the brain is involved, and we know that some headaches represent serious pathology. Brain tumours, bleeds, meningitis. The fear is not irrational.
 
-The reality is that the vast majority of headaches are primary headaches - tension type, migraine, or cluster - with no underlying structural cause. They are real, sometimes severely disabling, but not dangerous.
+But here is the reality that is worth stating clearly: the vast majority of headaches - well over 90% - are primary headaches. Tension type, migraine, or cluster. They are real, sometimes debilitating, but not dangerous in themselves. They will not cause brain damage and they will not kill you. The minority that do require urgent investigation have recognisable features - specific red flags that are worth knowing and responding to without hesitation.
 
-The minority that do require urgent investigation have recognisable features that are worth knowing.
+<div class="callout callout--danger">
+  <span class="callout__icon">!</span>
+  <div><div class="callout__title">Call 999 immediately for these headache features</div>Thunderclap headache - sudden onset, maximum intensity within 60 seconds, the worst headache of your life. Headache with neck stiffness, fever, and sensitivity to light (meningitis triad). Headache with new neurological symptoms - arm or leg weakness, face drooping, speech difficulty, sudden vision loss. Headache following significant head injury. New severe headache in anyone with cancer, HIV, or immunosuppression. Headache with confusion or reduced consciousness.</div>
+</div>
 
-## Call 999 immediately for these headache features
+## The thunderclap headache - always an emergency
 
-**Thunderclap headache:** Sudden onset, maximum intensity within seconds - described as the worst headache of your life reaching its peak instantaneously. This is a neurological emergency until proven otherwise. It can represent subarachnoid haemorrhage (bleeding around the brain), which is a life-threatening condition. Call 999.
+A thunderclap headache is defined as a severe headache that reaches its maximum intensity within 60 seconds of onset. It is often described as the worst headache of my life or like being hit on the head.
 
-**Headache with neck stiffness, fever, and sensitivity to light:** The triad of meningitis. Do not wait. Call 999.
+This presentation is a neurological emergency until proven otherwise. The primary concern is subarachnoid haemorrhage (SAH) - bleeding into the space around the brain from a ruptured cerebral aneurysm. SAH is fatal in approximately 40% of cases and causes significant disability in many survivors. But if caught quickly, the aneurysm can be treated before a second, often fatal, bleed occurs.
 
-**Headache with neurological symptoms:** New weakness in the arm or leg, face drooping, speech difficulty, sudden visual loss, or confusion alongside a headache requires immediate emergency assessment.
+Do not wait to see if the pain settles. Do not take paracetamol and go to bed. Call 999.
 
-**Headache in someone with cancer, HIV, or immunosuppression:** Higher risk of intracranial pathology.
+A CT scan of the head is the first investigation. If normal, a lumbar puncture is performed to look for blood in the cerebrospinal fluid - the CT can miss early SAH in a small proportion of cases.
 
-**Headache following head injury:** Especially if there was loss of consciousness, confusion, vomiting, or the headache is worsening.
+Other causes of thunderclap headache include cerebral venous sinus thrombosis, hypertensive emergency, reversible cerebral vasoconstriction syndrome, and pituitary apoplexy - all requiring urgent assessment.
 
-**New headache in someone over 50:** Particularly if accompanied by scalp tenderness, jaw pain on eating, or visual symptoms (risk of giant cell arteritis - a treatable but sight-threatening condition).
+## Tension headache - the most common type
 
-**Headache that is progressively worsening over days to weeks:** Suggests raised intracranial pressure.
+Tension-type headaches affect approximately 80% of adults at some point. They are characterised by a dull, aching, bilateral (both sides) pain - often described as a band or vice gripping the head. The pain builds gradually, is typically moderate in intensity, and lasts 30 minutes to several hours. There is no nausea or vomiting, and activity does not worsen it significantly.
 
-## Tension headache - by far the most common type
+Triggers include stress, poor posture (particularly prolonged screen use), dehydration, disrupted sleep, jaw clenching, and eyestrain. They are not dangerous and do not indicate brain disease.
 
-Tension headaches affect nearly everyone at some point. They are characterised by a dull, aching, bilateral (both sides) pain, often described as a band or pressure around the head. They typically build gradually and last 30 minutes to several hours.
+Treatment: Simple analgesia - paracetamol 1g or ibuprofen 400mg at the first sign of a headache - is effective when taken promptly. Physiotherapy for neck and shoulder tension is helpful for recurrent tension headaches. If you are taking pain relief more than 10-15 days per month for headaches, read the medication overuse section below.
 
-Triggers include stress, poor posture, dehydration, eye strain, and disrupted sleep. They are not dangerous.
+Prevention: Low-dose amitriptyline (10-25mg at night) taken daily reduces the frequency of chronic tension headache. It is not an antidepressant at these doses - it is used specifically for headache prevention.
 
-Treatment: paracetamol or ibuprofen are effective. Addressing triggers reduces frequency. Amitriptyline is used for prevention if headaches are frequent.
+## Migraine - a neurological disorder, not just a bad headache
 
-## Migraine - what it actually is
+Migraine affects approximately 1 in 7 people and is the second most disabling neurological condition in the world. It is significantly more common in women than men. It is still dramatically undertreated, partly because it is often dismissed as a bad headache rather than recognised as the complex neurological disorder it is.
 
-Migraine is a neurological disorder - not just a bad headache. It affects approximately 1 in 7 people and is significantly more common in women than men.
+Classic migraine features: moderate to severe, typically unilateral (one side, though it can be bilateral), throbbing or pulsating pain lasting 4-72 hours without treatment. Associated with nausea or vomiting, and photophobia (sensitivity to light) or phonophobia (sensitivity to sound) that makes normal daily activity impossible. The diagnostic criterion is that the headache significantly impairs functioning - this is not a headache you can push through.
 
-Classic migraine features: moderate to severe, usually one-sided, throbbing pain lasting 4-72 hours, with nausea or vomiting, and sensitivity to light and sound that makes normal activity impossible.
+**Migraine with aura:** Approximately 30% of migraines are preceded by an aura - a neurological symptom lasting 20-60 minutes that develops gradually and then resolves completely before or as the headache begins. Visual aura is most common: zigzag lines, shimmering arcs (scintillating scotoma), blind spots, or flashing lights. Aura can also include unilateral tingling or numbness, speech difficulty, or rarely motor weakness. Aura symptoms are caused by cortical spreading depression - a wave of neuronal depolarisation and suppression spreading across the brain.
 
-Migraine with aura: Approximately 30% of migraines are preceded by an aura - a neurological symptom lasting 20-60 minutes before the headache. Visual aura (zigzag lines, blind spots, flashing lights) is most common. Aura can also involve numbness, tingling, or speech difficulty.
+It is important to know that migraine with aura slightly increases the risk of ischaemic stroke, particularly in women who smoke and use the combined oral contraceptive pill. If you have migraine with aura and are on the pill, this combination needs discussion with your GP.
 
-**Migraine treatment:**
-Acute: Triptans (sumatriptan, rizatriptan) are the most effective treatments specifically for migraine. Aspirin 900mg or ibuprofen plus an antiemetic (prochlorperazine) are also effective. Simple paracetamol is often inadequate.
+<div class="callout callout--tip">
+  <span class="callout__icon">*</span>
+  <div><div class="callout__title">Migraine treatment - most people are undertreated</div>If you are taking over-the-counter pain relief for migraines and it is not working adequately, you are undertreated. Triptans (sumatriptan, rizatriptan, zolmitriptan) are specifically designed for migraine and are far more effective than standard analgesia. They are available on NHS prescription. Ask your GP.</div>
+</div>
 
-Preventive: If you have more than 4 migraines per month, preventive treatment is worth discussing with your GP. Options include topiramate, propranolol, amitriptyline, and the newer CGRP antagonists (erenumab, fremanezumab) which are highly effective.
+**Acute migraine treatment:**
+Triptans are the most effective acute treatment for migraine. They work by constricting the dilated cranial blood vessels and blocking pain signal transmission. Sumatriptan 50-100mg oral, or 6mg subcutaneous injection (fastest onset), or 20mg nasal spray. Rizatriptan 10mg oral wafers dissolve on the tongue without water - useful during an attack. Take as early as possible in the migraine attack. Do not use in people with cardiovascular disease.
 
-**Medication overuse headache:** Taking pain relief (including triptans) on more than 10-15 days per month creates a cycle of rebound headaches. If you are using pain relief this frequently, discuss a detox with your GP.
+NSAIDs (ibuprofen 400-600mg, naproxen 500mg) combined with an antiemetic (prochlorperazine, metoclopramide) are effective for mild-moderate migraine. Take at the very first sign of attack.
 
-## Cluster headaches - the most severe primary headache
+Paracetamol alone is often inadequate for migraine.
 
-Cluster headaches are less common but extraordinarily severe - often described as the most painful condition in medicine. They cause unilateral, excruciating pain around one eye, with tearing, redness, and nasal congestion on the same side. They occur in clusters lasting weeks to months, typically at the same time of day.
+**Migraine prevention:** If you have more than 4 migraine days per month, preventive treatment significantly improves quality of life. Options include: topiramate (effective but has cognitive side effects at higher doses and is teratogenic - absolutely avoid in pregnancy or if pregnancy possible without reliable contraception); propranolol (a beta-blocker, well-tolerated, effective); amitriptyline; and the newer CGRP antagonists (erenumab/Aimovig, fremanezumab/Ajovy) which are highly effective with excellent tolerability and are available on NHS prescription for people who have failed two prior preventives.
 
-Treatment: sumatriptan injection or high-flow oxygen at onset. Verapamil for prevention. Refer to neurology.
+**Medication overuse headache (MOH):** If you are taking any pain relief - including triptans - on more than 10-15 days per month for headache, you may have medication overuse headache. Paradoxically, the medication is now maintaining and worsening the headache cycle. The only treatment is withdrawal of the overused medication under GP supervision. This typically causes a temporary worsening before improvement. Discuss with your GP.
 
-## Headaches in African and Black patients - vitamin D and hypertension
+## Cluster headache - the most severe primary headache
 
-Two conditions worth specifically considering: Vitamin D deficiency (very common in dark-skinned people living in the UK) causes headaches in some people, though it is not consistently documented in trials. More importantly, uncontrolled hypertension can cause headaches, particularly occipital (back of head) headaches in the morning. Both are common and both are eminently treatable.
+Cluster headaches are less common (affecting approximately 1 in 1,000) but are often described as the most severe pain in human experience. They cause excruciating, unilateral periorbital (around one eye) pain rated 10/10 by virtually everyone who has them. The ipsilateral eye is typically red, watering, and the eyelid may droop. The nostril on the same side runs or blocks. Unlike migraine sufferers who lie still, people with cluster headaches are agitated and restless.
+
+They occur in clusters lasting weeks to months, typically at the same time of day (often waking people at 1-3am), then remit completely for months to years.
+
+Acute treatment: subcutaneous sumatriptan 6mg (fastest effective treatment) or high-flow 100% oxygen (12-15 L/min for 15 minutes) via non-rebreather mask. Both are available on NHS prescription. Standard oral pain relief is largely ineffective due to the rapid onset and resolution of attacks.
+
+Prevention during a cluster period: verapamil (a calcium channel blocker) is most effective. Refer to neurology for management.
+
+## Headache in African and Black patients - specific considerations
+
+Uncontrolled hypertension is a more common cause of headache in Black patients given the higher rates of hypertension. Occipital headache (back of the head) that is worse in the morning and associated with a high blood pressure reading warrants blood pressure investigation and control.
+
+Vitamin D deficiency - near-universal in dark-skinned UK residents - is associated with headache in some individuals. Worth checking and treating.
 
 ---
-*Sources: NICE Clinical Guideline CG150 - Headaches in over 12s (2012, updated 2021); British Association for the Study of Headache (BASH) guidelines 2019; Steiner TJ et al, Journal of Headache and Pain 2018; NHS - Headaches guide; Headache UK patient resources.*
+*Sources: NICE Clinical Guideline CG150 - Headaches in over 12s (2012, updated 2021); British Association for the Study of Headache (BASH) guidelines 2019; Steiner TJ et al, Journal of Headache and Pain 2018; NHS - Headaches overview; Headache UK - Cluster Headache patient information; Dodick DW, NEJM 2018 (CGRP antagonists for migraine).*

@@ -1,6 +1,6 @@
 ---
 title: "Kidney Disease - The Silent Condition Affecting Black Patients at Three Times the Rate"
-excerpt: "Chronic kidney disease affects Black adults at three times the rate of white adults, yet 90% of people with early CKD have no symptoms at all. Here is what you need to know."
+excerpt: "Chronic kidney disease affects Black adults at three times the rate of white adults, yet 90% of people with early CKD have no symptoms. Here is what you need to know - and the test your GP should be running."
 category: "chronic-conditions"
 categoryLabel: "Chronic Conditions"
 date: "2025-06-26"
@@ -11,52 +11,82 @@ heroImage: "/images/kidneydisease.webp"
 published: true
 ---
 
-There is a blood test I now add to almost every routine check I do for Black patients over 40. It is not standard protocol. It is not what the appointment was booked for. But after years of watching people receive serious kidney disease diagnoses that should have been caught five years earlier, I have stopped waiting to be asked.
+There is a blood test I now add to almost every routine check I do for Black patients over 40. It is not part of the standard protocol for that appointment. It is not what the appointment was booked for. But after years of watching people receive serious kidney disease diagnoses that should have been caught five years earlier, I stopped waiting to be asked.
 
-The result comes back in a few days. And in a meaningful number of cases, what it finds is a kidney function that has been quietly declining for years without producing a single symptom.
+The test takes 48 hours to return. And in a meaningful proportion of cases - far higher than it should be - what comes back is a kidney function that has been quietly declining for years without producing a single warning symptom.
 
-That is the defining feature of chronic kidney disease in its early stages: silence. Your kidneys continue filtering your blood, regulating your blood pressure, producing hormones - doing everything they are supposed to do - even when functioning at 60% or 50% of normal capacity. There is no alarm. No pain. No obvious sign. Just a slow, invisible decline.
+That is the defining feature of chronic kidney disease in its early stages: silence. Your kidneys continue filtering your blood, regulating your blood pressure, managing your electrolytes, producing hormones - doing everything they are supposed to do - even when functioning at 60%, or 50%, or 40% of their normal capacity. There is no pain. There is no visible sign. There is only a slow, invisible decline that, undetected, can reach the point of needing dialysis before anyone thought to look.
 
-For Black and African adults, the risk of that silent decline is three times higher than for white adults. This gap is driven by biology, by the disproportionate burden of hypertension and diabetes in our communities, and by a healthcare system that has historically underdiagnosed us.
+For Black and African adults in the UK, the risk of that silent decline is three times higher than for white adults. This gap is driven by biology, by the disproportionate burden of hypertension and diabetes in our communities, and by a healthcare system that has historically both under-screened and - through a now-corrected error in the eGFR formula - systematically underestimated kidney disease severity in Black patients.
+
+<div class="callout callout--info">
+  <span class="callout__icon">i</span>
+  <div><div class="callout__title">What the kidneys do</div>The kidneys are two fist-sized organs that filter approximately 180 litres of blood per day, removing waste products and excess fluid as urine. They also regulate blood pressure (via the renin-angiotensin system), maintain electrolyte balance, produce erythropoietin (which stimulates red blood cell production), and activate vitamin D. When kidney function declines significantly, all of these systems are affected.</div>
+</div>
 
 ## Why Black patients are disproportionately affected
 
-Hypertension is the leading cause of kidney disease in Black patients. As we established in our hypertension guide, Black adults develop high blood pressure earlier and more severely. Sustained high blood pressure damages the small blood vessels within the kidneys over years.
+**Hypertension:** The single most important modifiable cause of chronic kidney disease (CKD) in Black patients. As described in our hypertension guide, Black adults develop high blood pressure earlier and more severely than white adults. Sustained high blood pressure damages the small blood vessels within the glomeruli (the filtering units of the kidney), causing progressive scarring and loss of function over years.
 
-Diabetes is the second leading cause. Given the higher rates of type 2 diabetes in Black communities, this compounds the risk.
+**Diabetes:** The second leading cause of CKD globally and in Black communities. Given the 2-4 times higher rate of type 2 diabetes in Black populations, this compounds the kidney disease risk significantly.
 
-APOL1 gene variants are specific to people of African ancestry. Approximately 13% of people of African-ancestry populations carry two copies of high-risk APOL1 variants. These individuals have a dramatically elevated risk of kidney disease independent of blood pressure or diabetes.
+**APOL1 gene variants:** A critically important factor specific to people of African ancestry that is not yet sufficiently recognised in standard clinical practice. The APOL1 gene (Apolipoprotein L1) codes for a protein that provides natural protection against the African sleeping sickness parasite Trypanosoma brucei. Two specific high-risk variants (G1 and G2) are common in West African-ancestry populations - present in approximately 13% of African-Americans and similar proportions of Black British people of West African origin. People who inherit two high-risk APOL1 copies have a dramatically elevated risk of certain forms of kidney disease, including focal segmental glomerulosclerosis (FSGS) and HIV-associated nephropathy, independent of blood pressure or diabetes. This genetic factor partly explains why Black patients develop more severe kidney disease at younger ages even with comparable levels of other risk factors.
 
-## The eGFR race correction controversy
+**The historical eGFR race correction error:** For decades, the formula used to calculate estimated Glomerular Filtration Rate (eGFR) included a race correction that multiplied the result by 1.159 for patients identified as Black. The justification was a population-level difference in average serum creatinine levels attributable to greater muscle mass. The consequence was that Black patients appeared to have a higher eGFR - better apparent kidney function - than the same creatinine value would indicate in a white patient. This meant that CKD in Black patients was systematically underdiagnosed or diagnosed at a later stage. Most UK laboratories have now removed this race correction. If you are Black and have kidney function results from before 2022, they may have used the old formula - your actual kidney function may have been worse than the numbers showed.
 
-For decades, the formula used to calculate eGFR included a race correction factor that gave Black patients a higher estimated eGFR than the same creatinine value would give a white patient. The consequence: Black patients appeared to have better kidney function than they actually did, leading to later diagnosis and later treatment.
+## Understanding CKD stages
 
-Most UK laboratories have now removed this race correction. If you are Black and have kidney function results from before 2022, they may have used the old formula - your actual kidney function may have been worse than the numbers suggested.
+CKD is staged using eGFR (estimated Glomerular Filtration Rate), expressing kidney filtering capacity as a percentage of normal.
 
-## Understanding the stages of CKD
+| Stage | eGFR | Description |
+|---|---|---|
+| G1 | 90 or above | Normal or high (with evidence of kidney damage) |
+| G2 | 60-89 | Mildly reduced |
+| G3a | 45-59 | Mildly to moderately reduced |
+| G3b | 30-44 | Moderately to severely reduced |
+| G4 | 15-29 | Severely reduced |
+| G5 | Below 15 | Kidney failure |
 
-eGFR above 90: Normal or high - with evidence of kidney damage.
-eGFR 60-89: Mildly reduced.
-eGFR 45-59 (Stage 3a): Mildly to moderately reduced.
-eGFR 30-44 (Stage 3b): Moderately to severely reduced.
-eGFR 15-29 (Stage 4): Severely reduced - prepare for kidney replacement therapy.
-eGFR below 15 (Stage 5): Kidney failure.
+**Equally important - urine albumin:** Albumin in the urine (albuminuria or proteinuria) indicates kidney damage even when eGFR is still normal. The urine albumin-to-creatinine ratio (ACR) should always be measured alongside eGFR. An ACR above 3 mg/mmol is abnormal and above 30 mg/mmol indicates significant kidney damage. Always ask for both tests.
 
-Urine albumin-to-creatinine ratio (ACR) is equally important. Protein leaking into urine is a sign of kidney damage even when eGFR is normal. Always request both tests.
+## Case study: Emeka's silent decline
 
-## Case study: Emeka's routine check
+Emeka, 48, a project manager from Lagos based in Birmingham, came to me for a repeat prescription for his antihypertensive medication. His blood pressure was being managed. He felt well. He had no kidney-related symptoms.
 
-Emeka, 48, a project manager from Lagos based in Birmingham, came to me for a repeat prescription for his blood pressure medication. I added a kidney function check to his routine bloods.
+I added kidney function and a urine ACR to his routine bloods. I did not tell him I was particularly worried - I was not. It was my routine addition for Black patients over 40 with hypertension.
 
-His results: eGFR 44, ACR 35 mg/mmol. He had stage 3b CKD with significant proteinuria. He had no symptoms whatsoever.
+His results: eGFR 44 (Stage 3b CKD). Urine ACR 35 mg/mmol (significant albuminuria).
 
-The nephrologist added an SGLT2 inhibitor. His ACR has reduced by 40% over 18 months. His eGFR has remained stable.
+He had moderately severe CKD with significant proteinuria, almost certainly driven by years of hypertension. He had no symptoms whatsoever.
 
-"I had no idea," Emeka told me. "I felt completely fine."
+The management plan: optimise blood pressure to below 130/80 (he was at 138/86); add an SGLT2 inhibitor (dapagliflozin has specific evidence for slowing CKD progression independent of diabetes); add an ACE inhibitor specifically for its kidney-protective effects in proteinuric CKD; dietary protein and sodium advice; referral to nephrology.
 
-## What to avoid if you have CKD
+Eighteen months later: his ACR has reduced from 35 to 18 mg/mmol. His eGFR has remained stable at 43. Without intervention, progressive decline to requiring dialysis within a decade was likely.
 
-NSAIDs (ibuprofen, naproxen) should be avoided or used minimally in CKD - they reduce kidney blood flow and accelerate damage. Always use paracetamol instead, and inform any prescriber or pharmacist that you have kidney disease before taking any new medication.
+"I had no idea," he told me. "I felt completely well."
+
+## The medications that protect kidneys - and those that damage them
+
+**Kidney-protective medications:**
+
+ACE inhibitors (ramipril, lisinopril) and ARBs (losartan, candesartan) reduce pressure within the kidney's filtering units and reduce proteinuria. They slow CKD progression specifically in proteinuric CKD - evidence is strong. Monitor potassium and creatinine after starting.
+
+SGLT2 inhibitors (dapagliflozin, empagliflozin) have demonstrated dramatic reductions in CKD progression in large randomised trials (CREDENCE, DAPA-CKD, EMPA-KIDNEY), independent of diabetes or blood pressure effects. NICE now recommends them for people with CKD and proteinuria.
+
+Finerenone: A newer mineralocorticoid receptor antagonist with specific evidence for reducing CKD progression in people with diabetes and CKD.
+
+**Medications to avoid or use with caution in CKD:**
+
+NSAIDs (ibuprofen, naproxen, diclofenac): Reduce kidney blood flow and accelerate damage. Avoid in CKD. Use paracetamol instead.
+
+Metformin: Requires dose adjustment or stopping as eGFR declines (typically stop when eGFR falls below 30).
+
+Many antibiotics, contrast agents, and other medications require dose adjustment in CKD. Always inform any prescriber, pharmacist, or hospital doctor that you have kidney disease before any new medication is prescribed.
+
+<div class="callout callout--tip">
+  <span class="callout__icon">*</span>
+  <div><div class="callout__title">Ask for both tests</div>If you are Black, over 35, and have hypertension or diabetes, ask your GP specifically for an annual eGFR AND urine albumin-to-creatinine ratio (ACR). eGFR alone is not sufficient. Many cases of significant kidney damage are missed by eGFR alone because proteinuria develops before eGFR falls.</div>
+</div>
 
 ---
-*Sources: NHS England - Equality and Health Inequalities in Kidney Care 2022; Bikbov B et al, The Lancet 2020; Freedman BI et al, Clinical Journal of the American Society of Nephrology 2021; NICE CKD Guideline NG203 2021; Perkovic V et al, NEJM 2019.*
+*Sources: NICE Clinical Guideline NG203 - Chronic Kidney Disease (2021); Bikbov B et al, The Lancet 2020 (global CKD burden); Freedman BI et al, Clinical Journal of the American Society of Nephrology 2021 (APOL1 variants); Heerspink HJL et al, NEJM 2020 (DAPA-CKD trial); NHS England - Equality and Health Inequalities in Kidney Care 2022; Perkovic V et al, NEJM 2019 (CREDENCE trial).*

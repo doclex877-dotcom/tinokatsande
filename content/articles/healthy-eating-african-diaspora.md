@@ -11,59 +11,80 @@ heroImage: "/images/healthyeating.webp"
 published: true
 ---
 
-Traditional African diets, in their original forms, are extraordinarily healthy. Plantain, yam, beans, leafy greens, fish, lean meats cooked in tomato-based stews - this is genuinely good food with a strong nutritional profile.
+Traditional African diets, in their original forms, are extraordinarily healthy. Plantain, yam, sweet potato, beans, lentils, leafy greens, okra, fish, lean meats cooked in tomato-based stews with fresh herbs and spices - this is genuinely good food with a strong nutritional profile, high in fibre, rich in micronutrients, and consistent with what evidence-based nutrition science recommends.
 
-The problem is not the food itself. The problem is what happens to that food in the diaspora context - larger portions, more refined carbohydrates, less physical activity, more ultra-processed additions - and the broader food environment of the UK, where cheap, high-calorie, nutrient-poor food is everywhere.
+The problem is not the food itself. The problem is what happens to that food in the diaspora context, and the broader UK food environment into which African diaspora families arrive: larger portions, more refined carbohydrates, more processed additions, significantly reduced physical activity, and the chronic time pressure of life in the UK that makes fast, convenient food look like the only option.
 
-## What actually causes diet-related disease in African communities
+This guide is not about replacing African food with something else. It is about understanding which specific aspects of the diaspora food environment increase disease risk, and what changes - often smaller than people expect - make the biggest difference.
 
-Portion sizes: The single most impactful dietary change for many African diaspora families is portion size - particularly of starchy carbohydrates. A traditional plate may have a proportion of starch (fufu, rice, eba, yam) that is appropriate for manual labour in a hot climate. In a sedentary UK office environment, the same portion causes a much larger glycaemic load.
+<div class="callout callout--info">
+  <span class="callout__icon">i</span>
+  <div><div class="callout__title">Why this matters specifically for African communities</div>African diaspora communities in the UK have significantly higher rates of type 2 diabetes, hypertension, and cardiovascular disease than the general population. Diet is a major modifiable contributor to all three. The changes that reduce risk most effectively are often specific to the food patterns common in diaspora communities rather than generic healthy eating advice.</div>
+</div>
 
-Cooking oils: Palm oil in small quantities is nutritionally defensible. Large quantities used frequently in stews and frying add significant caloric density.
+## The three biggest dietary drivers of disease in African diaspora communities
 
-Sugar: The hidden sugar in UK food - in bread, sauces, processed foods, cereals - is genuinely higher than most people realise. Reading labels matters.
+**1. Carbohydrate portion sizes:**
 
-Fruit juices: A glass of pure orange juice has essentially the same sugar content and glycaemic impact as a glass of Coca-Cola. Whole fruit is significantly better - the fibre slows glucose absorption.
+The single most impactful dietary change for many African diaspora families is not what carbohydrates they eat but how much. Traditional proportions - substantial portions of fufu, pounded yam, eba, rice, or plantain forming the majority of the plate - were appropriate in contexts of significant manual labour and high physical activity in warm climates. In a sedentary UK office environment, the same portion sizes create a very different metabolic impact.
 
-Reduced physical activity: The UK environment significantly reduces the incidental physical activity that was built into daily life in African settings.
+The glycaemic load (the total glucose impact of a meal) of a large portion of white rice is substantial. Reducing the rice portion by half and filling the space with vegetables and protein achieves the same satiety with dramatically lower blood glucose impact.
 
-## The foods with the strongest evidence
+This does not require giving up rice. It requires a different proportion on the plate.
 
-Legumes (beans, lentils, chickpeas): High in protein, fibre, and slowly digested carbohydrate. They significantly blunt postprandial glucose spikes. Black-eyed peas, red beans, and lentils are all excellent. They reduce LDL cholesterol and improve blood sugar control.
+**2. Refined carbohydrates in the UK food environment:**
 
-Oily fish: Mackerel, sardines, salmon, herring. Omega-3 fatty acids have strong evidence for cardiovascular protection. Aim for at least 2 portions per week. Tinned sardines and mackerel are cheap and nutritionally excellent.
+Traditional African staples - yam, plantain, sweet potato, whole grain cassava products, legumes - have better fibre content and lower glycaemic index than the refined equivalents common in UK supermarkets: white rice, white bread, white pasta. The transition to UK convenience foods tends to move diets toward faster-releasing carbohydrates with less fibre.
 
-Leafy green vegetables: Spinach, kale, ugwu, bitter leaf, moringa - all high in folate, magnesium, vitamin K, and fibre.
+**3. Sugar in drinks:**
 
-Whole grains: Brown rice over white rice. Whole grain bread over white bread. Oats over corn flakes. The fibre in whole grains significantly slows glucose absorption.
+Sugary drinks - including fruit juices - are metabolically different from sugar in whole food. A glass of pure orange juice has essentially the same sugar load and glycaemic impact as a glass of sugary soft drink. The fibre present in whole fruit substantially slows glucose absorption; juice removes that fibre. High-sugar drinks bypass satiety mechanisms and deliver glucose rapidly. Replacing sugary drinks with water is one of the highest-impact single dietary changes, particularly for people with or at risk of diabetes.
+
+## The foods with the strongest evidence for health in this context
+
+**Legumes:** Black-eyed peas, red kidney beans, lentils, chickpeas, and other legumes are among the most nutritionally powerful foods available. High in protein, high in fibre, low glycaemic index, they significantly blunt blood glucose spikes after meals. Regular legume consumption is associated with lower rates of type 2 diabetes, lower LDL cholesterol, and lower cardiovascular risk. They are cheap, shelf-stable, and central to many African food traditions. Cook from dried where possible - dried beans have no added salt.
+
+**Oily fish:** Mackerel, sardines, salmon, herring, and pilchards are among the highest quality protein sources available, rich in omega-3 fatty acids with strong cardiovascular protective effects. Tinned sardines and mackerel are nutritionally excellent, inexpensive, and require no preparation beyond opening a tin. Target 2 portions per week minimum.
+
+**Green leafy vegetables:** Ugwu (fluted pumpkin leaf), bitter leaf, moringa, spinach, kale, spring greens - all exceptionally nutritious. High in folate, magnesium, vitamin K, calcium, and multiple antioxidants. Adding a handful of leafy greens to existing stews and soups is one of the simplest improvements possible.
+
+**Whole grains:** Brown rice over white rice. Oats over cornflakes. Wholegrain bread over white bread. The difference in fibre content substantially changes the glycaemic impact and improves satiety. Brown rice takes slightly longer to cook - nothing more complicated than that.
+
+**Nuts and seeds:** A daily handful of mixed nuts (30g) is associated with significantly lower cardiovascular risk in large population studies. They are calorie-dense but their combination of healthy fats, protein, and fibre makes them one of the most effective foods for hunger management. Groundnut (peanut) is nutritionally in this category - raw or minimally processed, not sweetened or heavily salted.
 
 ## The plate method - simple and evidence-based
 
-For people managing blood sugar or weight, the plate method is the simplest evidence-based tool.
+For people managing blood sugar, weight, or cardiovascular risk, the plate method is the most practical single framework:
 
-Half the plate: Non-starchy vegetables - salad, spinach, tomatoes, peppers, courgette, okra, aubergine.
-Quarter of the plate: Protein - fish, chicken, lean meat, eggs, beans.
-Quarter of the plate: Starchy carbohydrate - rice, yam, plantain, fufu, pasta.
+Half the plate: non-starchy vegetables - tomatoes, peppers, leafy greens, okra, courgette, aubergine, cabbage, cucumber, salad.
 
-This does not require abandoning African food - it requires adjusting the proportions.
+A quarter of the plate: protein - fish, chicken (skin removed), eggs, beans, lean meat.
 
-## Case study: Adaeze's type 2 diabetes reversal
+A quarter of the plate: starchy carbohydrate - rice, yam, plantain, fufu, pasta, bread.
 
-Adaeze, 47, was diagnosed with type 2 diabetes with an HbA1c of 54. Rather than immediately starting medication, I worked with her on dietary changes specific to her food culture.
+This does not require abandoning African food culture. It requires adjusting proportions. The same stew that previously sat on a large mound of rice now sits on a smaller portion with more vegetables alongside it.
 
-Changes: Halved her rice and fufu portions, doubled her vegetable portions. Replaced palm oil with olive oil for everyday cooking. Stopped fruit juice. Added a handful of mixed nuts as a daily snack. Walked 30 minutes after dinner each evening - the most effective timing for blood sugar management.
+## Case study: Adaeze's diabetes reversal through specific dietary change
 
-Six months later: HbA1c 44 - prediabetic range, not diabetic. No medication required.
+Adaeze, 47, was diagnosed with type 2 diabetes with an HbA1c of 54 mmol/mol. Rather than immediately starting medication, we agreed a three-month intensive lifestyle trial.
 
-"I did not change what I eat," she told me. "I changed how much of each part I eat."
+I did not give her generic healthy eating advice. I asked specifically about her typical daily food intake and made targeted changes within her existing food culture:
+
+Rice portions reduced by half; the space filled with ugwu soup and tomato stew. Sugary drinks (she was drinking one bottle of Fanta per day) replaced with water. She added a portion of beans to three meals per week. She stopped taking her morning tea with two sugars. She started a 30-minute walk after dinner each evening (the most effective single timing for reducing postprandial blood glucose).
+
+Six months later: HbA1c 44 - normal range. No medication required.
+
+"I did not change what I eat," she told me. "I changed how much of each part I eat, and I stopped the sugar drinks."
 
 ## Practical tips for the UK food environment
 
-Cook from scratch more than you buy ready-made: Home-cooked African food is almost always nutritionally superior to UK ready meals.
+**Read labels - specifically sugar and salt:** UK processed foods often have high levels of both. For sugar: above 5g per 100g is high. For salt: above 1.5g per 100g is high.
 
-Read labels - specifically sugar and salt: Anything above 5g sugar per 100g is high.
+**Cook from scratch as much as possible:** Home-cooked African food is almost always nutritionally superior to UK convenience food, even when it uses the same ingredients. You control what goes in.
 
-Eat protein with carbohydrate: Protein at every meal significantly blunts the glucose spike from carbohydrates.
+**Eat protein with every meal:** Protein at breakfast and lunch significantly reduces hunger and blood glucose fluctuations throughout the day. Eggs at breakfast are an excellent, inexpensive protein source.
+
+**Be specific about oil:** Palm oil in small quantities is nutritionally defensible. Large quantities add significant calorie density. For frying and sauteing, olive oil or rapeseed oil are preferable choices in everyday cooking.
 
 ---
-*Sources: Willett W et al, The Lancet 2019 (EAT-Lancet Commission); Dehghan M et al, The Lancet 2017 (PURE study); Dahl WJ and Stewart ML, Journal of Nutrition 2015 (legumes and health); Lean MEJ et al, The Lancet 2018 (DiRECT trial); NHS Eatwell Guide 2024.*
+*Sources: Willett W et al, The Lancet 2019 (EAT-Lancet Commission on healthy diets); Dehghan M et al, The Lancet 2017 (PURE study - diet and cardiovascular outcomes); Dahl WJ and Stewart ML, Journal of Nutrition 2015 (legumes and health outcomes); Lean MEJ et al, The Lancet 2018 (DiRECT dietary remission trial); NHS Eatwell Guide 2024; Diabetes UK - Eating Well with Type 2 Diabetes.*
