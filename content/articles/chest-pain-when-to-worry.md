@@ -1,6 +1,6 @@
 ---
-title: "Chest Pain - When to Call 999 and When It's Something Else"
-excerpt: "Chest pain is one of the most common reasons people go to A&E - and one of the most anxiety-provoking symptoms. Here is how to tell the difference between what needs emergency care and what does not."
+title: "Chest Pain - When to Call 999 and When It Is Something Else"
+excerpt: "Chest pain is one of the most common reasons people go to A&E and one of the most anxiety-provoking symptoms. Here is how to tell the difference between what needs emergency care and what does not."
 category: "symptoms"
 categoryLabel: "Symptoms Guide"
 date: "2025-06-12"
@@ -11,63 +11,72 @@ heroImage: "/images/chestpain.webp"
 published: true
 ---
 
-Chest pain sends more people to A&E than almost any other symptom. And for good reason - the heart is in the chest, heart attacks kill people, and the fear that chest pain might represent something life-threatening is entirely rational.
+Chest pain sends more people to A&E than almost any other symptom, and for good reason: the heart is in the chest, heart attacks kill people, and the fear that chest pain might represent something life-threatening is entirely rational.
 
-But the vast majority of chest pain is not a heart attack. Most chest pain presenting to emergency departments is musculoskeletal, gastrointestinal, or anxiety-related. The clinical challenge is distinguishing the minority that is cardiac from the majority that is not.
+But the vast majority of chest pain that presents to emergency departments is not cardiac. Studies consistently show that approximately 20-30% of chest pain presentations to A&E are found to have a cardiac cause. The remainder are musculoskeletal, gastrointestinal, anxiety-related, respiratory, or from other causes.
 
-This guide helps you understand what features of chest pain are genuinely alarming and what are likely to be benign. It does not replace medical assessment. When in doubt, call 999.
+The clinical challenge - both for doctors and for people trying to decide whether to call 999 or take a paracetamol - is distinguishing the minority that is genuinely dangerous from the majority that is not. This guide helps you understand what features of chest pain are alarming and what are likely to be benign. It does not replace medical assessment. When in doubt, call 999.
 
-## Call 999 immediately for these features
+<div class="callout callout--danger">
+  <span class="callout__icon">!</span>
+  <div><div class="callout__title">Call 999 immediately for these features</div>Central crushing or pressure sensation. Pain radiating to the left arm, jaw, neck, or back. Sweating, nausea, or vomiting accompanying chest pain. Breathlessness with chest pain. Sudden severe chest pain reaching maximum intensity instantly (thunderclap onset). Chest pain with palpitations, fainting, or loss of consciousness. Chest pain in someone with known heart disease, diabetes, or multiple cardiovascular risk factors. Do not drive yourself. Call 999.</div>
+</div>
 
-The following features suggest a potentially life-threatening cause of chest pain requiring immediate emergency assessment:
+## The cardiac causes - what a heart attack actually feels like
 
-Central crushing or pressure sensation - often described as a heavy weight on the chest, or someone squeezing the chest
-Pain radiating to the left arm, jaw, neck, back, or both arms
-Sweating, nausea, or vomiting accompanying the chest pain
-Breathlessness accompanying chest pain
-Sudden onset of severe chest pain, particularly tearing or ripping in character (suggests aortic dissection)
-Chest pain with a feeling of impending doom
-Chest pain with palpitations, fainting, or loss of consciousness
-Chest pain in anyone with known heart disease, diabetes, or multiple cardiovascular risk factors
+A heart attack (myocardial infarction) occurs when a coronary artery is blocked - usually by a blood clot forming on a ruptured atherosclerotic plaque. Without blood supply, the heart muscle supplied by that artery begins to die. Time is muscle - every minute of delay means more irreversible heart muscle damage.
 
-Do not drive yourself to hospital if you think you may be having a heart attack. Call 999. Chew 300mg aspirin if available and not allergic.
+The classic presentation: central chest pain or pressure - described variously as heaviness, tightness, crushing, squeezing, or like an elephant sitting on the chest. The pain often radiates to the left arm, jaw, neck, or between the shoulder blades. It is typically constant rather than coming and going. It is associated with sweating, nausea, breathlessness, pallor, and a sense of impending doom. It does not change with movement or pressing on the chest.
 
-## Causes of chest pain that are not cardiac
+**However:** Classic symptoms are less common in women and in Black patients. A significant proportion of heart attacks - particularly in these groups - present atypically: as unusual fatigue in the days before the event, as jaw pain without chest pain, as upper back pain, as breathlessness without chest pain, as indigestion-like discomfort, or even with no chest pain at all (silent MI). This matters enormously, because atypical presentations are more likely to be initially dismissed or attributed to non-cardiac causes by healthcare providers.
 
-**Musculoskeletal chest pain:** The most common cause of chest pain in younger people and in A&E overall. Costochondritis (inflammation of the cartilage joining ribs to the breastbone) causes sharp, localised chest pain that is worse on pressing the area and on certain movements. Muscle strain causes similar pain. These are not dangerous.
+Research consistently shows that Black patients with chest pain receive ECGs and troponin measurements less quickly than white male patients. If you have cardiovascular risk factors (hypertension, diabetes, obesity, smoking, family history) and develop any unusual symptoms in the upper body - even without classic chest pain - explicitly mention your risk factors when seeking care.
 
-**Gastro-oesophageal reflux (GORD/heartburn):** Acid reflux causes burning chest discomfort, often worse after eating, when lying down, or with certain foods. Can closely mimic cardiac pain. Often relieved by antacids.
+**Angina:** Cardiac chest pain without complete artery blockage, caused by narrowed coronary arteries that cannot supply adequate blood when demand increases (exercise, stress, cold). Typically presents as exertional chest tightness that comes on predictably with activity and resolves within minutes of rest. New angina requires prompt medical assessment.
 
-**Oesophageal spasm:** Can cause severe, crushing chest pain indistinguishable from cardiac pain. Often triggered by swallowing.
+**Unstable angina:** Angina occurring at rest or with minimal exertion, or angina that has recently worsened in character. Requires urgent medical assessment - it indicates an unstable coronary plaque at risk of rupturing and causing a full heart attack.
 
-**Pleuritis:** Inflammation of the lining of the lung causes sharp chest pain that is worse on breathing in and coughing.
+**Aortic dissection:** A tear in the inner layer of the aorta. Presents as sudden, severe, tearing or ripping chest or back pain of maximum intensity at onset. A medical emergency requiring immediate imaging and surgical assessment.
 
-**Pulmonary embolism (PE):** Blood clot in the lung. Causes sharp chest pain, breathlessness, and sometimes haemoptysis (coughing up blood). This is a medical emergency - call 999.
+**Pulmonary embolism (PE):** Blood clot in the pulmonary arteries. Causes pleuritic chest pain (sharp, worse on breathing in), breathlessness, and sometimes haemoptysis (coughing blood). Heart rate is often elevated. Requires immediate assessment. Call 999.
 
-**Pericarditis:** Inflammation of the sac around the heart. Causes sharp chest pain worse on lying down and improved by leaning forward.
+## Non-cardiac causes of chest pain
 
-**Anxiety and panic attacks:** Can cause very convincing chest pain, tightness, racing heart, and breathlessness. Anxiety-related chest pain is a diagnosis of exclusion - cardiac causes must be ruled out first.
+**Musculoskeletal chest pain:** The most common cause of chest pain in younger people presenting to A&E. Costochondritis (inflammation of the cartilage joining ribs to the sternum) causes sharp, localised, reproducible pain - worse when pressing on specific points of the chest wall (this is the key diagnostic feature: cardiac pain does not change when you press the chest). Muscle strain, rib injury, and poor posture cause similar presentations. Not dangerous.
 
-**Shingles:** The rash of shingles is preceded by a burning, stabbing pain that can affect the chest wall for days before any rash appears. Easy to mistake for cardiac pain.
+**Gastro-oesophageal reflux disease (GORD):** Acid reflux from the stomach into the oesophagus causes burning discomfort behind the breastbone. Often worse after meals, when lying down, or after fatty or spicy foods. Often relieved by antacids. Can be very difficult to distinguish from cardiac pain without investigation - GORD is common in people with cardiac risk factors and the two frequently coexist.
 
-## Features that suggest non-cardiac chest pain
+**Oesophageal spasm:** The oesophageal muscle can go into spasm, causing severe, crushing chest pain that is genuinely indistinguishable from a heart attack without investigation. Often associated with swallowing. Can be triggered by very hot or cold food and drink.
 
-Sharp, stabbing pain rather than pressure or heaviness
-Pain clearly worsened by pressing on the chest wall
-Pain obviously related to movement or position
-Pain clearly related to eating or lying down
-Pain that comes and goes in seconds
-Pain in a young, fit person with no cardiovascular risk factors
+**Pericarditis:** Inflammation of the pericardium (the sac surrounding the heart), often following a viral infection. Causes sharp chest pain that is characteristically worse when lying flat and improved by sitting forward. Often associated with fever and a friction rub heard on auscultation.
 
-None of these features definitively excludes a cardiac cause. If there is any doubt, seek medical assessment.
+**Pleuritis:** Inflammation of the pleura (the lining of the lung). Causes sharp, well-localised chest pain that is clearly worse on breathing in and coughing.
 
-## Black patients and chest pain - the atypical presentation problem
+**Shingles (herpes zoster):** The reactivation of the chickenpox virus in a dorsal root ganglion causes a dermatomal burning or stabbing pain that precedes the appearance of the rash by 1-5 days. The pain can be severe and can affect the chest wall, making it easy to mistake for cardiac pain. Watch for the appearance of a unilateral vesicular rash.
 
-Black patients and women are more likely to present with atypical symptoms of heart attack - without the classic crushing central chest pain. Unusual fatigue, breathlessness, jaw pain, back pain, nausea, and a vague feeling of unwellness can be the predominant symptoms.
+**Anxiety and panic attacks:** Can cause very convincing chest tightness, pain, and palpitations alongside other anxiety symptoms (breathlessness, dizziness, tingling, fear). Anxiety-related chest pain is a diagnosis of exclusion - cardiac causes must be investigated and excluded before attributing chest pain to anxiety.
 
-This matters enormously because atypical presentations are more likely to be initially attributed to anxiety or gastrointestinal causes by healthcare providers, and less likely to be investigated promptly. Studies consistently show Black patients and women receive ECGs and troponin tests less quickly than white male patients with chest pain.
+## Features that suggest non-cardiac causes
 
-If you have risk factors for heart disease (hypertension, diabetes, obesity, family history, smoking) and develop any unusual symptoms in the chest, upper body, or jaw - even without classic crushing pain - seek urgent medical assessment and explicitly mention your cardiovascular risk factors.
+These features make a cardiac cause less likely (though they do not exclude it):
+
+Sharp, stabbing pain rather than pressure or heaviness. Pain that is clearly worsened by pressing on the chest wall or by specific movements. Pain that clearly worsens on breathing in (suggests pleural cause). Pain clearly related to eating, heartburn, or lying flat (suggests gastrointestinal cause). Pain that comes and goes within seconds. Age below 40 with no cardiovascular risk factors.
+
+None of these features definitively rules out a cardiac cause. If there is any significant doubt, and particularly if risk factors are present, seek medical assessment.
+
+## When to see your GP rather than A&E
+
+See your GP (same day or next day) for chest pain that is:
+- Recurrent episodes with a clear pattern (e.g. with exertion only, always resolving quickly with rest)
+- Associated with heartburn and clearly related to food
+- Musculoskeletal and responding well to anti-inflammatory medication
+- Clearly positional and associated with recent respiratory infection
+
+See a GP urgently (same day) or go to A&E for:
+- Chest pain at rest
+- Chest pain associated with breathlessness, palpitations, or sweating
+- New chest pain in someone with cardiovascular risk factors
+- Chest pain with fever and recent viral illness (may suggest pericarditis or myocarditis)
 
 ---
-*Sources: NICE Clinical Guideline CG95 - Chest Pain of Recent Onset (2010, updated 2016); British Heart Foundation - Heart Attack Symptoms guide; NHS England - Cardiovascular Disease outcomes framework; Patel H et al, Heart 2004 (atypical symptoms in women); Arslanian-Engoren C, Heart and Lung 2005 (atypical symptoms in Black patients).*
+*Sources: NICE Clinical Guideline CG95 - Chest Pain of Recent Onset (2010, updated 2016); British Heart Foundation - Heart Attack Symptoms; NHS England - Cardiovascular Disease outcomes framework; Patel H et al, Heart 2004 (atypical symptoms in women); Arslanian-Engoren C, Heart and Lung 2005 (atypical symptoms in Black patients); Hoffmann U et al, NEJM 2012 (coronary CT angiography in chest pain).*
