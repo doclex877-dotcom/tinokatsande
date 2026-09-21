@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <circle cx="256" cy="256" r="256" fill="#0B6B6B"/>
+  <circle cx="256" cy="256" r="210" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="2"/>
+  <text x="256" y="310" font-family="Georgia,serif" font-weight="700" font-size="210" fill="#FFFFFF" text-anchor="middle">TK</text>
+  <circle cx="256" cy="390" r="18" fill="#4DD9AC"/>
+</svg>

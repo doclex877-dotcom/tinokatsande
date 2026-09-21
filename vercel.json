@@ -1,0 +1,11 @@
+{
+  "framework": "nextjs",
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [{ "type": "host", "value": "tinokatsande.online" }],
+      "destination": "https://www.tinokatsande.online/:path*",
+      "permanent": true
+    }
+  ]
+}
